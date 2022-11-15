@@ -2,8 +2,6 @@
     margin: 0;
     padding: 30px;
     background-image: white;
-    color: black; }
-
-h1 {
-    text-align: center;
+    color: black; 
+    align: center;
 }

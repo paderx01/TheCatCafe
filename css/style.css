@@ -3,12 +3,10 @@
     padding: 30px;
     background-image: white;
     color: black; 
-    align: center;
 }
 
-#collage {
-    margin: 160px;
-    padding-left: 1000px;
+.navbar-nav{
+    margin-left:28rem;
 }
 
 body {

@@ -7,9 +7,18 @@
 
 .navbar-nav{
     margin-left:28rem;
+    background-image: linear-gradient(to right, #5637dd, #3046C5, #60106b);
 }
 
 body {
-    background-color: rgb(176, 133, 48);
+    background-color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande'
+}
+
+.socialMedia {
+    background-color: white;
+}
+
+.intro {
+    margin: 60px;
 }

@@ -1,18 +1,12 @@
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: white;
+    background-image: black;
     color: black; 
 }
 
-body {
-    background-color: white;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
-    background-color: #ba8211; 
-}
-
 .socialMedia {
-    background-color: white;
+    background-color: black;
 }
 
 .intro {
